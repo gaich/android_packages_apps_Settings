@@ -233,10 +233,10 @@ android.permission.ACCESS_SUPERUSER
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство \"%1$s\" пытается получить доступ к Вашим контактам и журналу вызовов. Разрешить доступ для %2$s?</string>
-    <string name="bluetooth_pb_remember_choice">"Больше не спрашивать"</string>
+    <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
 	<string name="bluetooth_mas_request">Запрос доступа к сообщениям</string>
     <string name="bluetooth_mas_acceptance_dialog_text">Устройство \"%1$s\" пытается получить доступ к Вашим сообщениям. Разрешить доступ для %2$s?</string>
-    <string name="bluetooth_mas_remember_choice">"Больше не спрашивать"</string>
+    <string name="bluetooth_mas_remember_choice">Больше не спрашивать</string>
     <string name="date_and_time">Настройки даты и времени</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
 	<string name="default_date_format">MM/dd/yyyy</string>
@@ -261,11 +261,11 @@ android.permission.ACCESS_SUPERUSER
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">"Введено недействительное имя хоста."</string>
-    <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
+    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
+    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
     <string name="proxy_error_empty_port">Укажите порт.</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
-    <string name="proxy_error_invalid_port">"Указанный порт недействителен."</string>
+    <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений.</string>
     <string name="radio_info_signal_location_label">Местоположение:</string>
     <string name="radio_info_neighboring_location_label">Соседний CID:</string>
@@ -310,7 +310,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="sdcard_settings_not_present_status">USB-накопитель не подключен.</string>
     <string name="sdcard_settings_available_bytes_label">Свободно байт:</string>
     <string name="sdcard_settings_mass_storage_status">USB-накопитель используется как запоминающее устройство.</string>
-    <string name="sdcard_settings_unmounted_status">"USB-накопитель можно безопасно извлечь."</string>
+    <string name="sdcard_settings_unmounted_status">USB-накопитель можно безопасно извлечь.</string>
     <string name="sdcard_settings_bad_removal_status">USB извлечен во время работы!</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байт:</string>
     <string name="sdcard_settings_scanning_status">Сканирование USB-накопителя...</string>
@@ -409,7 +409,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">"Если фэйсконтроль Вас не узнаёт, как Вы будете разблокировать?"</string>
+    <string name="unlock_backup_info_summary">Если фэйсконтроль Вас не узнаёт, как Вы будете разблокировать?</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Слайдер</string>
@@ -583,11 +583,11 @@ android.permission.ACCESS_SUPERUSER
     <string name="wifi_stopping">Отключение Wi-Fi...</string>
     <string name="wifi_error">Ошибка</string>
     <string name="wifi_in_airplane_mode">В режиме полета</string>
-    <string name="wifi_fail_to_scan">"Не удалось начать поиск сетей."</string>
+    <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     <string name="wifi_poor_network_detection">Фильтр сетей Wi-Fi</string>
-    <string name="wifi_poor_network_detection_summary">"Не использовать сети Wi-Fi с плохим интернет-соединением"</string>
+    <string name="wifi_poor_network_detection_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
     <string name="wifi_setting_sleep_policy_title">Поддерживать Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
     <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
@@ -675,7 +675,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="wifi_skipped_message">"ПРЕДУПРЕЖДЕНИЕ: возможны дополнительные расходы на услуги оператора связи.
 
 Настройка устройства может потребовать передачи большого объема данных по сети."</string>
-    <string name="wifi_and_mobile_skipped_message">"ПРЕДУПРЕЖДЕНИЕ: будет невозможно проверить, нуждается ли Ваше программное обеспечение в обновлении."</string>
+    <string name="wifi_and_mobile_skipped_message">ПРЕДУПРЕЖДЕНИЕ: будет невозможно проверить, нуждается ли Ваше программное обеспечение в обновлении.</string>
     <string name="wifi_connect_failed_message">Не удалось подключиться к сети Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Дополнительные функции</string>
     <string name="wifi_setting_frequency_band_title">Полоса частот Wi-Fi</string>
@@ -928,7 +928,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="usb_mtp_title">Медиа-устройство (MTP)</string>
     <string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
-    <string name="usb_ptp_summary">"Позволяет передавать фотографии с помощью программного обеспечения камеры, а также передавать любые файлы на компьютеры, которые не поддерживают MTP"</string>
+    <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры, а также передавать любые файлы на компьютеры, которые не поддерживают MTP</string>
     <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
     <string name="storage_other_users">Другие пользователи</string>
     <string name="battery_status_title">Состояние батареи</string>
@@ -965,8 +965,8 @@ android.permission.ACCESS_SUPERUSER
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
     <string name="error_title" />
-    <string name="error_name_empty">"Необходимо указать название."</string>
-    <string name="error_apn_empty">"Необходимо указать APN."</string>
+    <string name="error_name_empty">Необходимо указать название.</string>
+    <string name="error_apn_empty">Необходимо указать APN.</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию.</string>
@@ -974,7 +974,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
     <string name="master_clear_title">Сброс настроек</string>
     <string name="master_clear_summary">Удаление всех данных из памяти телефона</string>
-    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутренней памяти устройства</b>", в том числе:
+    <string name="master_clear_desc">Будут удалены все данные из <b>внутренней памяти устройства</b>", в том числе:
 
 "<li>Ваш аккаунт Google</li>"
 "<li>Настройки/данные системы и приложений</li>"
@@ -1382,8 +1382,8 @@ android.permission.ACCESS_SUPERUSER
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2041,59 +2041,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="hide_extras_summary">Убрать дополнительную системную информацию, например, кнопку режима совместимости (требуется рестарт UI)</string>
     <string name="menu_nav_bar_reset">Сброс нав.панели</string>
     <string name="menu_ribbon_reset">Сброс ленты</string>
-    <string name="lockscreen_shortcuts_icon_picker_alarm">Сигнал</string>
-    <string name="lockscreen_shortcuts_icon_picker_andy">Andy</string>
-    <string name="lockscreen_shortcuts_icon_picker_battery">Батарея</string>
-    <string name="lockscreen_shortcuts_icon_picker_browser">Браузер</string>
-    <string name="lockscreen_shortcuts_icon_picker_calendar">Календарь</string>
-    <string name="lockscreen_shortcuts_icon_picker_camera">Камера</string>
-    <string name="lockscreen_shortcuts_icon_picker_cloud">Облако</string>
-    <string name="lockscreen_shortcuts_icon_picker_contact">Контакт</string>
-    <string name="lockscreen_shortcuts_icon_picker_directdial">Быстрый набор</string>
-    <string name="lockscreen_shortcuts_icon_picker_directmessage">Быстрое СМС</string>
-    <string name="lockscreen_shortcuts_icon_picker_drive">Drive</string>
-    <string name="lockscreen_shortcuts_icon_picker_dropbox">Dropbox</string>
-    <string name="lockscreen_shortcuts_icon_picker_email">Email</string>
-    <string name="lockscreen_shortcuts_icon_picker_email2">Другой Email</string>
-    <string name="lockscreen_shortcuts_icon_picker_evernote">Evernote</string>
-    <string name="lockscreen_shortcuts_icon_picker_facebook">Facebook</string>
-    <string name="lockscreen_shortcuts_icon_picker_favorite">Избранное</string>
-    <string name="lockscreen_shortcuts_icon_picker_file_browser">File Browser</string>
-    <string name="lockscreen_shortcuts_icon_picker_file_browser2">Другой File Browser</string>
-    <string name="lockscreen_shortcuts_icon_picker_fitness">Fitness</string>
-    <string name="lockscreen_shortcuts_icon_picker_gallery">Галерея</string>
-    <string name="lockscreen_shortcuts_icon_picker_gears">Gears</string>
-    <string name="lockscreen_shortcuts_icon_picker_google_small">Google</string>
-    <string name="lockscreen_shortcuts_icon_picker_gplus">Google Plus</string>
-    <string name="lockscreen_shortcuts_icon_picker_gtalk">GTalk</string>
-    <string name="lockscreen_shortcuts_icon_picker_help">Помощь</string>
-    <string name="lockscreen_shortcuts_icon_picker_joystick">Joystick</string>
-    <string name="lockscreen_shortcuts_icon_picker_key">Ключи/Аккаунты</string>
-    <string name="lockscreen_shortcuts_icon_picker_laptop">Laptop</string>
-    <string name="lockscreen_shortcuts_icon_picker_notes">Заметки</string>
-    <string name="lockscreen_shortcuts_icon_picker_luggage">Путешествия</string>
-    <string name="lockscreen_shortcuts_icon_picker_maps">Карты</string>
-    <string name="lockscreen_shortcuts_icon_picker_market">Маркет</string>
-    <string name="lockscreen_shortcuts_icon_picker_movie">Фильмы</string>
-    <string name="lockscreen_shortcuts_icon_picker_music">Музыка</string>
-    <string name="lockscreen_shortcuts_icon_picker_nav">Навигация</string>
-    <string name="lockscreen_shortcuts_icon_picker_phone">Телефон</string>
-    <string name="lockscreen_shortcuts_icon_picker_package">Package</string>
-    <string name="lockscreen_shortcuts_icon_picker_pinterest">Pinterest</string>
-    <string name="lockscreen_shortcuts_icon_picker_play">Play</string>
-    <string name="lockscreen_shortcuts_icon_picker_pocket">Pocket</string>
-    <string name="lockscreen_shortcuts_icon_picker_podcast">Podcast</string>
-    <string name="lockscreen_shortcuts_icon_picker_quicksettings">Быстрые настройки</string>
-    <string name="lockscreen_shortcuts_icon_picker_rss">RSS </string>
-    <string name="lockscreen_shortcuts_icon_picker_sdcard">SDкарта</string>
-    <string name="lockscreen_shortcuts_icon_picker_search">Поиск</string>
-    <string name="lockscreen_shortcuts_icon_picker_sms">Сообщения</string>
-    <string name="lockscreen_shortcuts_icon_picker_tasks">Задачи</string>
-    <string name="lockscreen_shortcuts_icon_picker_terminal">Терминал</string>
-    <string name="lockscreen_shortcuts_icon_picker_transit">Transit</string>
-    <string name="lockscreen_shortcuts_icon_picker_tv">TV</string>
-    <string name="lockscreen_shortcuts_icon_picker_twitter">Twitter</string>
-    <string name="lockscreen_shortcuts_icon_picker_unlock">Разблокировка</string>
+    <string name="menu_ribbon_rearrange">Изменение ленты</string>
     <string name="lockscreen_vibrate_enabled_title">Вибрация</string>
     <string name="lockscreen_vibrate_enabled_head">Вибрация при разблокировке устройства</string>
     <string name="lockscreen_battery_status_title">Состояние батареи</string>
@@ -2105,14 +2053,14 @@ android.permission.ACCESS_SUPERUSER
     <string name="lockscreen_hide_initial_page_hints_summary">Настроить, будут ли показываться подсказки для правого и левого виджетов при включении экрана.</string>
     <string name="lockscreen_use_widget_container_carousel_title">Использовать карусель</string>
     <string name="lockscreen_use_widget_container_carousel_summary">Использовать анимацию карусели при переключении между виджетами экрана блокировки.</string>
-    <string name="lockscreen_auto_rotate_title">Разрешить поворот экрана</string>
+    <string name="lockscreen_auto_rotate_title">Разрешить поворот</string>
     <string name="lockscreen_auto_rotate_summary">Экран блокировки сможет поворачиваться в зависимости от ориентации устройства. Это не зависит от функции автоповорота экрана</string>
     <string name="lockscreen_text_color_title">Цвет текста экрана</string>
-    <string name="lockscreen_seethrough">Прозрачный локскрин</string>
-    <string name="lockscreen_seethrough_summary">Позволяет видеть через экран блокировки Ваш домашний экран и приложения на нем.</string>
+    <string name="lockscreen_see_through_title">Прозрачный экран</string>
+    <string name="lockscreen_see_through_summary">Позволяет видеть через экран блокировки Ваш домашний экран и приложения на нем.</string>
     <string name="lockscreen_all_widgets_title">Разрешить все виджеты</string>
     <string name="lockscreen_all_widgets_summary">ПРЕДУПРЕЖДЕНИЕ: некоторые виджеты не предусмотрены для использования на экране блокировки. Не обвиняйте разработчика виджета или Carbon, если виджет работает неправильно. Под Вашу ответственность!</string>
-    <string name="lockscreen_minimize_challenge_title">Расширенный экран блокировки</string>
+    <string name="lockscreen_minimize_challenge_title">Расширенный экран</string>
     <string name="lockscreen_battery_title">Отображение батареи</string>
     <string name="volume_music_controls_title">Переключение громкостью</string>
     <string name="volume_rocker_wake_title">Пробуждение громкостью</string>
@@ -2418,7 +2366,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="enable_clock_weekday_summary">Аббревиатура дня недели перед временем</string>
     <string name="right_clock">Часы справа</string>
     <string name="center_clock">Часы в центре</string>
-    <string name="dont_show">"не показывать"</string>
+    <string name="dont_show">не показывать</string>
     <string name="clock_date_display">Дата</string>
     <string name="clock_date_display_summary">Показывать дату перед часами</string>
     <string name="clock_date_style">Стиль даты</string>
@@ -2557,14 +2505,14 @@ android.permission.ACCESS_SUPERUSER
     <string name="swap_volume_keys_summary">Поменять местами назначение клавиш громкости, если экран повернут на 90 или 180 градусов</string>
     <string name="custom_carrier_label_title">Имя оператора</string>
     <string name="custom_carrier_label_explain">Введите новое имя. Пустое поле сбросит название к первоначальному</string>
-    <string name="custom_carrier_label_notset">Пользовательское имя не установлено</string>
-    <string name="lcd_density_title">Плотность LCD</string>
+    <string name="custom_carrier_label_notset">Имя не установлено</string>
+	<string name="lcd_density_title">Плотность LCD</string>
     <string name="lcd_density_summary">неизвестно</string>
     <string name="dual_pane">Двойная панель</string>
-    <string name="dual_pane_summary">Перезагрузить для применения настроек</string>
+    <string name="dual_pane_summary">Для применения перезагрузить настройки</string>
     <string name="wakeup_when_plugged_unplugged_title">Пробуждать в ЗУ</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Пробуждать устройство при подключении/отключении ЗУ</string>
-    <string name="dpi">DPI</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Пробуждать устройство, если ЗУ подключено/отключено</string>
+	<string name="dpi">DPI</string>
     <string name="current_lcd_density">"Текущая плотность LCD: "</string>
     <string name="lcd_density_wizard">Мастер плотности LCD</string>
     <string name="follow_through_title">Следуйте за мной!</string>
@@ -2577,12 +2525,12 @@ android.permission.ACCESS_SUPERUSER
     <string name="clear_market_data_title">3.Очистить данные маркета</string>
     <string name="clear_market_data_summary">В этом шаге очищаются данные маркета, служб google play и gsf.</string>
     <string name="clear_market_data_cleared">Данные успешно очищены</string>
-    <string name="clear_market_data_donot_cleared">"Не удалось очистить данные, пожалуйста, очистите вручную!"</string>
+    <string name="clear_market_data_donot_cleared">Не удалось очистить данные, пожалуйста, очистите вручную!</string>
     <string name="reboot_cleardata_title">4.Перезагрузка!</string>
     <string name="reboot_cleardata_summary">Вернитесь сюда после перезагрузки и выполните оставшиеся шаги!</string>
     <string name="open_market_title">5.В маркете нажать принять</string>
     <string name="open_market_summary">После этого нажмите назад, чтобы вернуться сюда.</string>
-    <string name="open_market_summary_could_not_open">"Невозможно открыть маркет! Если он установлен, откройте его сами из лончера."</string>
+    <string name="open_market_summary_could_not_open">Невозможно открыть маркет! Если он установлен, откройте его сами из лончера.</string>
     <string name="custom_density_title">6.Изменить плотность!</string>
     <string name="custom_density_summary">Если будут возникать проблемы совмесимости с маркетом, вернитесь сюда и повторите процесс.</string>
     <string name="custom_density_summary_invalid">НЕВЕРНАЯ ПЛОТНОСТЬ!</string>
@@ -2713,7 +2661,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="width_port_title">Шир.в порт.режиме</string>
     <string name="width_land_title">Шир.в ланд.режиме</string>
     <string name="navbar_widgets">Виджеты нав. панели</string>
-    <string name="navbar_enable_bar">Включить нав.панель</string>
+	 <string name="navbar_enable_bar">Включить нав.панель</string>
     <string name="navigation_bar_height_title">Высота панели</string>
     <string name="navigation_bar_height_summary">Высота навигационной панели в портретном режиме</string>
     <string name="navigation_bar_height_landscape_title">Высота в ландш.реж.</string>
@@ -2726,12 +2674,12 @@ android.permission.ACCESS_SUPERUSER
     <string name="navigation_bar_width_summary">Высота навигационной панели при нахождении вдоль левого края</string>
     <string name="navbar_enable_dialog_title">Необходима перезагрузка!</string>
     <string name="navbar_enable_dialog_msg">Вы<b>должны</b> перезагрузиться сейчас для применения изменений</string>
-    <string name="navbar_enable_dialog_negative">"Я перезагружусь позже"</string>
+    <string name="navbar_enable_dialog_negative">Я перезагружусь позже</string>
     <string name="navbar_enable_dialog_Positive">Перезагрузить!</string>
-    <string name="navbar_height_dialog_title">Необходима перезагрузка!</string>
-    <string name="navbar_height_dialog_summary">Пожалуйста, перезагрузитесь для правильного применения высоты</string>
-    <string name="navbar_height_dialog_button_later">"Я перезагружусь позже"</string>
-    <string name="navbar_height_dialog_button_reboot">Перезагрузить</string>
+	<string name="navbar_height_dialog_title">Необходима перезагрузка!</string>
+    <string name="navbar_height_dialog_summary">Пожалуйста, перезагрузитесь для правильного применения настроек высоты</string>
+    <string name="navbar_height_dialog_button_later">Я перезагружусь позже</string>
+    <string name="navbar_height_dialog_button_reboot">Перезагрузить!</string>
     <string name="navigation_bar_tint_title">Цвет кнопок</string>
     <string name="navigation_bar_colorall_title">Раскрасить все кнопки</string>
     <string name="navigation_bar_colorall_summary">Если отмечено, пользовательские значки будут раскрашены</string>
@@ -2793,11 +2741,15 @@ android.permission.ACCESS_SUPERUSER
     <string name="navring_icon">Польз.значок</string>
     <string name="navring_target_amount_text">Текущее число ярлыков</string>
     <string name="navring_target_longpress_text">Статус длит.действия</string>
+    <string name="ribbon_dialog_arrange_title">Настройка ленты</string>
     <string name="ribbon_instructions">Нажать на значок для выбора действий или удаления</string>
     <string name="ribbon_targets_cat">Опции ленты</string>
-    <string name="enable_ribbon_text_title">Показать имя приложения</string>
-    <string name="enable_ribbon_vibrate_title">Вибрировать при прикосновении</string>
+    <string name="enable_ribbon_text_title">Показать имя</string>
+    <string name="enable_ribbon_vibrate_title">Вибрация на ленте</string>
     <string name="enable_ribbon_text_summary">Показать имя приложения под значком</string>
+    <string name="ribbon_icon_vibrate_title">Вибрация на ярлыке</string>
+    <string name="ribbon_icon_space_title">Горизонтальные промежутки</string>
+    <string name="ribbon_icon_space_vertical_title">Вертикальные промежутки</string>
     <string name="ribbon_icon_size_title">Размер значка</string>
     <string name="ribbon_icon_size_summary">Установить размер значков</string>
     <string name="ribbon_lockscreen">Лента экрана блокировки</string>
@@ -2812,15 +2764,16 @@ android.permission.ACCESS_SUPERUSER
     <string name="ribbon_right_enable_title">Включить выпад справа</string>
     <string name="ribbon_bottom_enable_title">Включить выпад снизу</string>
     <string name="ribbon_bottom_warning_title">Нельзя использовать выпад снизу с включенной нав. панелью, нужно использовать скрытую нав.панель.</string>
+    <string name="ribbon_button_colorize_title">Значки цвета текста</string>
     <string name="ribbon_color_title">Цвет фона ленты</string>
-    <string name="text_color_title">Цвет ярлыка</string>
+    <string name="text_color_title">Цвет текста</string>
     <string name="ribbon_opacity_title">Прозрачность фона ленты</string>
     <string name="timeout_spinner_title">Тайм-аут скрытия ленты</string>
     <string name="ribbon_drag_handle_width_title">Длина ручки</string>
     <string name="ribbon_drag_handle_height_title">Толщина ручки</string>
     <string name="ribbon_insert">Вставить кнопку</string>
     <string name="ribbon_handle_location_title">Расположение ручки</string>
-    <string name="ribbon_icon_location_title">Центровка ручки</string>
+    <string name="ribbon_icon_location_title">Центровка ярлыков</string>
     <string name="center">По центру</string>
     <string name="top">Вверху</string>
     <string name="bottom">Внизу</string>
@@ -2897,7 +2850,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="size_2_dp">2 dp</string>
     <string name="size_3_dp">3 dp</string>
     <string name="size_4_dp">4 dp</string>
-    <string name="custom_app_icon_successfully">"-значок успешно установлен"</string>
+    <string name="custom_app_icon_successfully">-значок успешно установлен</string>
     <string name="group_applications">Приложения</string>
     <string name="title_expanded_widget">Виджет шторки</string>
     <string name="power_widget_buttons">Кнопки виджета</string>
@@ -2949,7 +2902,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="brightness_location_title">Расположение слайдера яркости</string>
     <string name="brightness_slider_top">Вверху</string>
     <string name="brightness_slider_bottom">Внизу</string>
-    <string name="brightness_slider_none">"Не показывать"</string>
+    <string name="brightness_slider_none">Не показывать</string>
     <string name="power_menu_reboot_title">Перезагрузка</string>
     <string name="power_menu_screenshot_title">Снимок экрана</string>
     <string name="power_menu_torch_title">Фонарик</string>
@@ -3056,7 +3009,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="volume_key_cursor_control_off">Выключено</string>
     <string name="volume_key_cursor_control_on">Кнопка громкости +/- двигает курсор влево/вправо</string>
     <string name="volume_key_cursor_control_on_reverse">Кнопка громкости +/- двигает курсор вправо/влево</string>
-    <string name="keyboard_rotation_toggle_title">Автовращение клавиатуры</string>
+    <string name="keyboard_rotation_toggle_title">Автоповорот клавиатуры</string>
     <string name="keyboard_rotation_toggle_summary">Включить автоматический поворот при использовании клавиатуры</string>
     <string name="keyboard_rotation_timeout_title">Тайм-аут автоповорота</string>
     <string name="keyboard_rotation_timeout_summary">Отключает сенсор автоповорота через %1$s с после того, как клавиатура была убрана</string>
@@ -3064,7 +3017,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="disable_fullscreen_keyboard_title">Отключ.в ландшафте</string>
     <string name="disable_fullscreen_keyboard_summary">Клавиатура в ландшафтном режиме никогда не будет занимать весь экран</string>
     <string name="pref_wifi_disable_hdcp_title">Пропустить опрос HDCP</string>
-    <string name="pref_wifi_disable_hdcp_summary">"Используйте эту настройку, если Вы смогли подключиться, но не удаётся вывести изображение"</string>
+    <string name="pref_wifi_disable_hdcp_summary">Используйте эту настройку, если Вы смогли подключиться, но не удаётся вывести изображение</string>
     <string name="media_scanner_on_boot_title">Медиасканнер при загрузке</string>
     <string name="media_scanner_on_boot_enabled">Сканировать медиа</string>
     <string name="media_scanner_on_boot_ask">Запрос сканирования (уведомление)</string>
@@ -3119,7 +3072,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="gestures_action_search">Запуск поиска</string>
     <string name="gestures_action_recent">Недавние приложения</string>
     <string name="gestures_action_screenshot">Сделать снимок экрана</string>
-    <string name="lockscreen_custom_background_title">Фон</string>
+    <string name="lockscreen_custom_background_title">Фон экрана блокировки</string>
     <string name="lockscreen_custom_background_dialog_title">Выбрать цвет</string>
     <string name="lockscreen_background_result_successful">Фон успешно изменен</string>
     <string name="lockscreen_background_result_not_successful">Фон не может быть изменен</string>
@@ -3131,7 +3084,7 @@ android.permission.ACCESS_SUPERUSER
     <string name="system_power_crt_screen_on_title">CRT при вкл.экрана</string>
     <string name="system_power_crt_screen_on_summary">При включении экрана будет показываться анимация электронного луча</string>
     <string name="status_bar_battery_icon_bar_title">Стиль значка и полосы батареи</string>
-    <string name="battery_icon_cat">Стиль значка батереи</string>
+    <string name="battery_icon_cat">Стиль значка батареи</string>
     <string name="status_bar_battery_title">Стиль значка батареи</string>
     <string name="title_statusbar_battery">Батарея в строке состояния</string>
     <string name="icon_with_text">Значок с текстом</string>
@@ -3228,4 +3181,9 @@ android.permission.ACCESS_SUPERUSER
     <string name="notification_convert_sound_to_vibration_summary">От звуков к вибрациям в режиме вибрации</string>
     <string name="auto_hide_statusbar">Скрыть строку состояния</string>
     <string name="auto_hide_statusbar_summary">Строка состояния скрывается если нет уведомлений</string>
+    <string name="safe_headset_volume_title">Безопасная громкость</string>
+    <string name="safe_headset_volume_summary">Предупреждать о высоком уровне громкости при первом подключении гарнитуры</string>
+	<string name="permissions_settings_title">Разрешения</string>
+	<string name="hidden_statusbar_pulldown_title">Вызов строки уведомлений</string>
+    <string name="hidden_statusbar_pulldown_summary">Включить вызов строки уведомлений в скрытом состоянии</string>
 </resources>
